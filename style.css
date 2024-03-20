@@ -1,0 +1,8 @@
+.navbar {
+    display: flex;
+    padding: 6px;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
